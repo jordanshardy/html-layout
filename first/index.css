@@ -1,0 +1,24 @@
+body{
+    background-color: #D8D8D8;
+    margin: 0;
+}
+
+.top-box{
+    background-color: #434343;
+    height: 200px;
+    width: auto;
+}
+
+.main-box{
+    background-color: white;
+    height: 900px;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.bottom-box{
+    background-color: black;
+    width: 1000px;
+    height: 150px;
+    Margin: 0 auto;
+}
